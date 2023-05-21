@@ -1,0 +1,39 @@
+{
+  "speakers": [
+    {
+      "id": "13746a45-e9e4-4332-8f70-c89014826ae1",
+      "name": "POPPY CRUM",
+      "designation": "Stanford University Adjunct Professor",
+      "description": "Expert in Technology-Driven Innovation & Human Evolution; Stanford University Adjunct Professor; Futurist; Neuroscientist; and Technologist",
+      "profileImageURL": "https://www.leadingauthorities.com/sites/default/files/2019-12/Crum-Poppy-Speaker-2.jpg"
+    },
+    {
+      "id": "73a2f31e-af26-45db-bfe9-80c4478a8563",
+      "name": "BRAN FERREN",
+      "designation": "Former President of Research and Development at Walt Disney Imagineering",
+      "description": "Co-founder and Chief Creative Officer of Applied Minds, a technology, design, and R&D consulting firm whose clients include General Motors, Intel, and more",
+      "profileImageURL": "https://www.leadingauthorities.com/sites/default/files/images/ferren-bran.original.jpg"
+    },
+    {
+      "id": "cd74f98c-915f-4b68-a726-b78364b5927a",
+      "name": "GREG WILLIAMS",
+      "designation": "Editor-in-Chief, WIRED Magazine",
+      "description": "Transformative trends expert who knows what’s next first. Distills complex changes into entertaining, engaging, and accessible insights. Challenges audiences to rethink business models in ways that capitalize on disruptive technologies",
+      "profileImageURL": "https://www.leadingauthorities.com/sites/default/files/images/williams-greg-speaker.original.jpg"
+    },
+    {
+      "id": "917217be-1568-4ede-98fd-273c94bf5cbe",
+      "name": "DEX HUNTER-TORRICKE",
+      "designation": "Head of Global Communications & Marketing at Deepmind",
+      "description": "Led executive communications at Facebook and served as Mark Zuckerberg's personal speechwriter. Also worked alongside Elon Musk, Larry Page, Eric Schmidt, and UN Sec.-General Ban Ki-moon. Shares anecdotes from his time at the day's biggest brands to illustrate the impact of future technology on business",
+      "profileImageURL": "https://www.leadingauthorities.com/sites/default/files/images/torricke-barton-dex-speaker-2.original.jpg"
+    },
+    {
+      "id": "e3b4ae83-61e9-43d8-9bbc-f24c1cc677eb",
+      "name": "KATE DARLING",
+      "designation": "Social Robotics Expert & MIT Media Lab Research Specialist",
+      "description": "Leading robotics expert is known for her groundbreaking research in the field of robotics ethics. Recognized as one of the “biggest names in science” by NBC News and one of the “25 Women in Robotics You Need to Know About” by Robohub. Shares incredible insights on human-robot interaction, robot ethics, and the ways robots will impact society in the near-term future",
+      "profileImageURL": "https://www.leadingauthorities.com/sites/default/files/images/darling-kate-speaker-2.original.jpeg"
+    }
+  ]
+}
